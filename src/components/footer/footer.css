@@ -1,0 +1,40 @@
+.page-footer {
+    background-color: rgb(2, 47, 61);
+    color: white;
+    padding-top: 15px;
+    margin-top: 15%; 
+} 
+
+/* #contact {
+    color: white;
+
+    margin-bottom: 0rem;
+} */
+
+/* .connectDiv {
+    margin-bottom: 40px; 
+} */
+
+.fa-linkedin {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: white;
+}
+
+.fa-github {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: white;
+}
+
+.fa-google {
+    /* margin-left: 25px;
+    margin-right: 25px; */
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: white;
+}

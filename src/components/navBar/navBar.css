@@ -1,0 +1,38 @@
+/* Add a black background color to the top navigation */
+.page-navBar {
+    background-color: rgb(2, 47, 61);
+    overflow: hidden;
+    /* padding: 2%; */
+}
+
+/* Style the links inside the navigation bar */
+.page-navBar a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 2%;
+    font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.page-navBar a:hover {
+    background-color: rgb(244, 245, 247);
+    color: black;
+}
+
+/* Grow */
+.hvr-glow {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.hvr-glow:hover,
+.hvr-glow:focus,
+.hvr-glow:active {
+    transform: scale(1.1);
+}
