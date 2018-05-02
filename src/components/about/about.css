@@ -1,0 +1,17 @@
+.aboutDiv {
+    margin: 5%;
+    color: white;
+    background-color: rgb(2, 47, 61);
+    border-radius: 5px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 28px;
+    padding: 2%;
+}
+
+.image {
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 2%;
+}
